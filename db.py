@@ -1,7 +1,7 @@
 # coding: utf-8
 
 from pony.orm import *
-from models import *
+from modle import *
 
 __author__ = 'think'
 
